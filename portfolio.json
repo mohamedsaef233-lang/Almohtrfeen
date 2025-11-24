@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "نظام إدارة الشركات المتكامل",
+    "category": "تطبيق ويب",
+    "description": "تم تطوير نظام متكامل لإدارة الموارد البشرية والمشاريع والمخازن لشركة كبرى، مع واجهة مستخدم سهلة الاستخدام.",
+    "imageUrl": "assets/images/portfolio/project1.jpg",
+    "projectLink": "#",
+    "client": "شركة التقنية المتحدة",
+    "technologies": ["React", "Node.js", "MongoDB"],
+    "year": "2024"
+  },
+  {
+    "id": 2,
+    "title": "تطبيق توصيل طعام",
+    "category": "تطبيق موبايل",
+    "description": "تصميم وتطوير تطبيق شامل للطلب والتوصيل للطعام مع نظام دفع إلكتروني وتتبع الطلبات في الوقت الفعلي.",
+    "imageUrl": "assets/images/portfolio/project2.jpg",
+    "projectLink": "#",
+    "client": "مطعم الندى",
+    "technologies": ["Flutter", "Firebase", "Stripe"],
+    "year": "2024"
+  },
+  {
+    "id": 3,
+    "title": "منصة تعليمية تفاعلية",
+    "category": "تطبيق ويب",
+    "description": "إنشاء منصة تعليمية متكاملة مع فصول افتراضية ونظام إدارة محتوى وتقييم الطلاب.",
+    "imageUrl": "assets/images/portfolio/project3.jpg",
+    "projectLink": "#",
+    "client": "أكاديمية المستقبل",
+    "technologies": ["Vue.js", "Laravel", "MySQL"],
+    "year": "2023"
+  },
+  {
+    "id": 4,
+    "title": "لعبة تعليمية للأطفال",
+    "category": "تطبيق ألعاب",
+    "description": "تطوير لعبة تعليمية تفاعلية للأطفال باستخدام محرك يونيتي، تجمع بين المتعة والتعلم.",
+    "imageUrl": "assets/images/portfolio/project4.jpg",
+    "projectLink": "#",
+    "client": "مؤسسة التعليم الإلكتروني",
+    "technologies": ["Unity", "C#", "Blender"],
+    "year": "2023"
+  },
+  {
+    "id": 5,
+    "title": "هوية بصرية لمطعم",
+    "category": "تصميم جرافيك",
+    "description": "تصميم هوية بصرية كاملة لمطعم حديث تشمل الشعار، بطاقات العمل، القوائم، والتغليف.",
+    "imageUrl": "assets/images/portfolio/project5.jpg",
+    "projectLink": "#",
+    "client": "مطعم النخبة",
+    "technologies": ["Adobe Illustrator", "Photoshop"],
+    "year": "2024"
+  },
+  {
+    "id": 6,
+    "title": "نظام أمن سيبراني",
+    "category": "أمن سيبراني",
+    "description": "تطوير نظام متكامل للحماية من الهجمات الإلكترونية ومراقبة الشبكات مع نظام إنذار مبكر.",
+    "imageUrl": "assets/images/portfolio/project6.jpg",
+    "projectLink": "#",
+    "client": "بنك الوطني",
+    "technologies": ["Python", "SIEM", "Firewall"],
+    "year": "2024"
+  }
+]
